@@ -4,7 +4,7 @@
 .services-hero {
     margin-top: 80px;
     background: linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0.5)), 
-                url('img/banner.avif') center/cover;
+                url('/img/banner.avif') center/cover;
     color: white;
     text-align: center;
     padding: 6rem 0;
