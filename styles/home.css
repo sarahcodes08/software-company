@@ -45,12 +45,12 @@ a:hover {
 
 .slide:nth-child(1) {
     background: linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0.5)), 
-                url('\img\banner-1.png') center/cover;
+                url('img/banner-1.png') center/cover;
 }
 
 .slide:nth-child(2) {
     background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
-                url('/api/placeholder/1920/600') center/cover;
+                url('img/banner-1.png') center/cover;
 }
 
 .slide-content {
